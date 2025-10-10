@@ -3,7 +3,7 @@
 I do some cool stuff, so feel free to reach me out and discuss anything 'bout swift 😎
 
 - 💰 Software Engineer (iOS) [@Yope](https://yope.app).
-- 💰 Software Engineer (iOS) [@Revolut](https://yope.app)
+- 💰 Ex Software Engineer (iOS) [@Revolut](https://yope.app)
 - 🎭 Co-founder of [CaptureContext](https://capturecontext.dev)
 - 🎖 The best framework can be found [here](https://github.com/capturecontext/swift-declarative-configuration) (_not even joking, gimme a star_, __NOW__ 👺)
 - 🥇 The best UIKit Button can be found [here](https://gist.github.com/maximkrouk/35c0ec0baf4d4e797786f60c49a2554e) (_i'm really serious 🗿_)
