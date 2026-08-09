@@ -2,6 +2,7 @@
 
 I do some cool stuff, so feel free to reach me out and discuss anything 'bout swift 😎
 
+- 👨‍💻 Software Engineer (iOS) [@Praktika](https://praktika.ai)
 - 😎 Ex Software Engineer (iOS) [@Revolut](https://yope.app)
 - 🎭 Co-founder of [CaptureContext](https://capturecontext.dev)
 - 🎖 The best framework can be found [here](https://github.com/capturecontext/swift-declarative-configuration) (_not even joking, gimme a star_, __NOW__ 👺)
